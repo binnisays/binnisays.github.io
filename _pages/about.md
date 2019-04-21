@@ -1,35 +1,22 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
-comments: true
+title: About us
+permalink: /about/
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+ 
+From Editor's desk - 
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+Let me remind you the role of press in the Freedom struggle. Freedom of the press was of utmost importance during our fight with British Government for Independence.As it was a powerful tool to propagate political ideas many freedom fighters joined newspapers. In 1824, Raja Rammohan Roy had protested against a resolution restricting the freedom of the press. The early phase of the nationalist movement, from around 1870 to 1918, focussed more on political propaganda and education, formation and propagation of nationalist ideology, training, mobilisation and consolidation of public opinion.Many newspapers emerged during these years under distinguished and fearless journalists. In these newspapers, government acts and policies were put to thorough scrutiny. They acted as an institution of opposition to the Government. 
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+The intent of the website is to disseminate information related to the government sector, useful to various user groups at large. Constructive information as news that is beneficial and brings about an awareness.Our effort is to unearth fresh news and ideas around that are relevant and unexplored. Thoughtful analysis and fearless views is our motto. We cover news from India and the world; provide an unbiased perspective akin to the changing dynamics of news and the world.
 
-<h4>Questions or bug reports?</h4>
+ We have fine-tuned our coverage in Indian bureaucracy and politics. Fresh stories that aren’t covered by the mainstream media find a place here. We vigil movements in the Public Sector Undertakings and the Corporate world. We are editorially independent, meaning we set our own agenda. Our journalism is free from commercial bias and not influenced by billionaire owners, politicians or shareholders. No one edits our Editor. No one steers our opinion. 
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
-</div>
+Regards,
+Bipin Sasi
 
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+You can connect with me at [businesseditor@intelligentindia.in](mailto:businesseditor@intelligentindia.in)
+ 
