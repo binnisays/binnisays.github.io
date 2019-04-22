@@ -2,7 +2,7 @@
 layout: post
 title:  "BJP's Gautam Gambhir to contest from East Delhi, Meenakshi Lekhi from New Delhi"
 author: Bipin
-categories: [ politics , featured ]
+categories: [ featured ]
 image: images/gautam.JPG
 featured: true
 hidden: true
