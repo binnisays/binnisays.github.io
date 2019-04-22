@@ -13,5 +13,5 @@ Eight former top police officers Sunday strongly condemned the "despicable" rema
 In a statement, the former DGPs said the country owes Karkare, who headed the Maharashtra Anti-Terror Squad and was killed during the 26/11 terror attack, a huge debt of gratitude and anything that detracts from this is worthy of strong condemnation.
 
 
-#### So how do we do spoilers?
+ 
  
