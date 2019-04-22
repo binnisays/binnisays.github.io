@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Rahul Gandhi Citizenship: After hearing Rahul Gandhi's counsel, Returning Officer Ram Manohar Misra declared his nomination papers for the Amethi Lok Sabha seat as valid."
-author: bipin
+author: Bipin
 categories: [ featured ]
-image: images/rahul1.jpg
+image: images/rahul1.JPG
 featured: true
 hidden: true
 ---
