@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Colombo blasts - Sri Lankan Airlines asks passengers to report four hours before departure "
-author: bipin
+author: Shivangi
 categories: [ featured ]
 image: assets/images/colombo.jpg
 featured: true
