@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shalini Yadav, Varanasi: Profile, Wiki, Age, Husband and Family"
+title:  "Shalini Yadav, Varanasi- Profile, Wiki, Age, Husband and Family"
 author: Shivangi
 categories: [ profiles ]
 image: images/shaliniyadav.JPG
