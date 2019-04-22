@@ -6,7 +6,7 @@ logo: 'assets/images/intlogo.gif'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-59285359-8'
-disqus: 'demowebsite'
+disqus: ''
 mailchimp-list: ' '
 include: ["_pages"]
 permalink: /:title/
@@ -16,7 +16,7 @@ authors:
   Bipin:
     name: Bipin
     display_name: Bipin
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'images/author.jpg'
     email: editor@intelligentindia.in
     web: https://www.intelligentindia.in
     twitter: https://twitter.com/binnisays
@@ -25,7 +25,6 @@ authors:
     name: Shivangi
     display_name: Bipin    
     avatar: 'images/shivangi.jpg'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: editor@intelligentindia.in
     web: https://www.intelligentindia.in
     twitter: https://twitter.com/shivangi143
