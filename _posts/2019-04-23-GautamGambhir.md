@@ -4,8 +4,8 @@ title:  "BJP's Gautam Gambhir to contest from East Delhi, Meenakshi Lekhi from N
 author: Bipin
 categories: [ politics ]
 image: images/gautam.JPG
-featured:true
-hidden:true
+featured: true
+hidden: true
 ---
 Lok Sabha election tracker LIVE -  Ex-cricketer Gautam Gambhir is BJP candidate from East Delhi, sitting MP from New Delhi, Meenakshi Lekhi will again contest from the same seat, the party announced on Monday.
 
