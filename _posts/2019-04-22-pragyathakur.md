@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ex police officers express despair against Sadhvi Pragya's remark "
-author: bipin
+author:  Bipin
 categories: [ featured ]
 image: assets/images/pragya.jpg
 featured: true
