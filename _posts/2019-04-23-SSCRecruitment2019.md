@@ -3,6 +3,7 @@ layout: post
 title:  "SSC Recruitment 2019 - Huge Vacancies Under 7th Pay Commission Released, Apply Now"
 author: Shivangi
 categories: [ jobs,sarkari naukri ]
+image: images/jobs.png
 featured: false
 hidden: false
 ---
