@@ -4,8 +4,7 @@ title:  "Rahul will be in Madhya Pradesh for rally on Tuesday"
 author: Bipin
 categories: [ politics ]
 image: images/rahul1.JPG
-featured:true
-hidden:true
+
 ---
 Congress president Rahul Gandhi will hold two rallies in Madhya Pradesh on Tuesday to campaign for his party's Lok Sabha poll candidates in the state.
 
