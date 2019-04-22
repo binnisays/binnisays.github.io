@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Air India Recruitment: Applications invited for fresh jobs - Check all details here"
+title:  "Air India Recruitment- Applications invited for fresh jobs - Check all details here"
 author: Shivangi
 categories: [ jobs,sarkari naukri]
 featured: false
