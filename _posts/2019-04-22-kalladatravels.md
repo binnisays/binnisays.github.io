@@ -3,7 +3,7 @@ layout: post
 title:  "Kallada travels : Three of the staff from Suresh Kallada travels have been arrested for assaulting the passengers."
 author: Shivangi
 categories: [ featured ]
-image: assets/images/kallada.jpg
+image: assets/images/kallada.JPG
 featured: true
 hidden: true
 ---
