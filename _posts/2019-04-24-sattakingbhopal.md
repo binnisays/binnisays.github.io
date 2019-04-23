@@ -2,7 +2,7 @@
 layout: post
 title:  "Great success for DIG, Bhopal Irshad Wali in cracking down the betting racket "
 author: Bipin
-categories: [ featured ]
+categories: [ featured ,Bhopal IPL Betting Racket]
 image: images/ipl.jpg
 featured: true
 hidden: true
