@@ -2,7 +2,7 @@
 layout: post
 title:  "Best ayurvedic medicines from India "
 author: Bipin
-categories: [ featured, national ]
+categories: [ featured, travel ]
 image: images/ayurveda.jpg
 featured: true
 hidden: true

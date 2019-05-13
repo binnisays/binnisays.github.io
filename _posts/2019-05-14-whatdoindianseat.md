@@ -2,7 +2,7 @@
 layout: post
 title:  "What do Indian's eat? "
 author: Bipin
-categories: [ featured, national ]
+categories: [ featured, travel ]
 image: images/food.jpg
 featured: true
 hidden: true

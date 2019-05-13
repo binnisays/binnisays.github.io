@@ -2,7 +2,7 @@
 layout: post
 title:  "Best hotels in  India "
 author: Bipin
-categories: [ featured, national ]
+categories: [ featured, travel ]
 image: images/evolve.jpg
 featured: true
 hidden: true

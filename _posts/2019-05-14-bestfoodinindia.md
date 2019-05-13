@@ -2,7 +2,7 @@
 layout: post
 title:  "What is the most popular food in India? "
 author: Bipin
-categories: [ featured, national ]
+categories: [ featured, travel ]
 image: images/food.jpg
 featured: true
 hidden: true

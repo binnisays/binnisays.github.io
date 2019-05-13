@@ -2,7 +2,7 @@
 layout: post
 title:  "Best places to Visit in India "
 author: Bipin
-categories: [ featured, national ]
+categories: [ featured, travel ]
 image: images/india.jpg
 featured: true
 hidden: true
