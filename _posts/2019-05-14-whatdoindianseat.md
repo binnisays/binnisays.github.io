@@ -9,7 +9,7 @@ hidden: true
 rating: 5
 ---
  
-  The vegetarian food that Indians ate was mainly wheat flatbreads or a kind of flatbread made out of chickpeas, with a spicy vegetarian sauce with lentils, and yogurt. Or people ate rice, with yogurt and vegetables
+  The vegetarian food that Indians ate was mainly wheat flatbreads or a kind of flatbread made out of chickpeas, with a spicy vegetarian sauce with lentils, and yogurt. Or people ate rice, with yogurt and vegetables. India believes in sharing so there is a possibility that they will order a curry and share it with you. Usually in European countries everyone has their own portion of curries .
   
   Staple foods of Indian cuisine include pearl millet (bājra), rice, whole-wheat flour (aṭṭa), and a variety of lentils, such as masoor (most often red lentils), tuer (pigeon peas), urad (black gram), and moong (mung beans).
   
@@ -19,7 +19,7 @@ rating: 5
    
    if you are in India you must try the below food
    
-   1 – Alu Gobi. Alu Gobi is a dry dish made with potatoes (aloo), cauliflower (gobi) and Indian spices.  
+1 – Alu Gobi. Alu Gobi is a dry dish made with potatoes (aloo), cauliflower (gobi) and Indian spices.  
 2 – Butter Chicken. 
 3 – Rogan Josh.  
 4 – Samosas.  
