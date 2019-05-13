@@ -3,7 +3,7 @@ layout: post
 title:  "When do Indian Elections end ? "
 author: Bipin
 categories: [ featured, politics ]
-image: images/modi.jpg
+image: images/modi.PNG
 featured: true
 hidden: true
 rating: 5
