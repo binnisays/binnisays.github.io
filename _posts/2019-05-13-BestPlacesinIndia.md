@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "India's chief justice cleared of harassment"
+title:  "Best places to Visit in India "
 author: Bipin
 categories: [ featured, national ]
 image: images/india.jpg
