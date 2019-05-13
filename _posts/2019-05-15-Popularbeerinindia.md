@@ -3,7 +3,7 @@ layout: post
 title:  "Top 10 Popular Imported Beer Brands in India "
 author: Bipin
 categories: [ featured, travel ]
-image: images/ayurveda.jpg
+image: images/bira.PNG
 featured: true
 hidden: true
 rating: 5
