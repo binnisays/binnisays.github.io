@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reshma Padekanura: Profile, Wiki, Husband, Family and Murder"
+title:  "Reshma Padekanura- Profile, Wiki, Husband, Family and Murder"
 author: Bipin
 categories: [ featured, jobs ]
 featured: true
