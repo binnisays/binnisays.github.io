@@ -3,7 +3,7 @@ layout: post
 title:  "Indian Navy Recruitment 2019  121 SSC officer posts; Apply now "
 author: Bipin
 categories: [  jobs ]
-image: images/modi.PNG
+image: images/jobs.png
 featured: true
 hidden: true
 rating: 5
