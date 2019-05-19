@@ -13,7 +13,7 @@ title: Home
     </div>
     <div class="row">
 
-    {% for post in site.posts   limit:5%}
+    {% for post in site.posts   limit:6%}
 
         {% if post.featured == true %}
 
@@ -40,7 +40,7 @@ title: Home
 
     <div class="row listrecent">
 
-        {% for post in paginator.posts %}
+        {% for post in paginator.posts limit:6 %}
 
         {% include postbox.html %}
 
