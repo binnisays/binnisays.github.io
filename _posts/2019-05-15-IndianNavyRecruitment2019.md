@@ -9,7 +9,7 @@ hidden: true
 rating: 5
 ---
 
-Indian Navy SSC Officer Recruitment 2019: Indian Navy invites application from Unmarried Male/Female Candidates for Short Service Commission (SSC) Officer Posts in Education, Technical and Education Branch through Indian Navy Entrance Test (INET) in Various Entries, June 2020 Course.Eligible candidates can apply for the posts through official website from 18 May to 29 May 2019. A total of 121 posts are invited for Pilot / Observer / Air Traffic Controller / Naval Armament Inspectorate Cadre / Logistics / Education / Information Technology / Technical (Engineering & Electrical).
+Indian Navy SSC Officer Recruitment 2019- Indian Navy invites application from Unmarried Male/Female Candidates for Short Service Commission (SSC) Officer Posts in Education, Technical and Education Branch through Indian Navy Entrance Test (INET) in Various Entries, June 2020 Course.Eligible candidates can apply for the posts through official website from 18 May to 29 May 2019. A total of 121 posts are invited for Pilot / Observer / Air Traffic Controller / Naval Armament Inspectorate Cadre / Logistics / Education / Information Technology / Technical (Engineering & Electrical).
 
 Candidates who have passed Engineering Degree or are in the final year of Engineering Course in any of the above mentioned disciplines from AICTE recognised educational institute can apply Indian Navy SSC Officer Recruitment 2019.
 
