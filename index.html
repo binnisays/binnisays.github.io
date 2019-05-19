@@ -40,7 +40,7 @@ title: Home
 
     <div class="row listrecent">
 
-        {% for post in paginator.posts limit:6 %}
+        {% for post in site.posts limit:6 %}
 
         {% include postbox.html %}
 
