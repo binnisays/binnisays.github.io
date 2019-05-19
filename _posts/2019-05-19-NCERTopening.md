@@ -2,7 +2,7 @@
 layout: post
 title:  "NCERT Recruitment 2019- Job On The Spot, Apply For Multiple Vacant Posts"
 author: Bipin
-categories: [ featured, jobs ]
+categories: [  jobs ]
 featured: true
 image: images/jobs.png
 hidden: true

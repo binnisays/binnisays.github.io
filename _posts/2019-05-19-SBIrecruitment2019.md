@@ -2,7 +2,7 @@
 layout: post
 title:  "SBI Recruitment 2019 - Check Vacancies & Apply Now, Application Process Ends Soon"
 author: Bipin
-categories: [ featured, jobs ]
+categories: [   jobs ]
 featured: true
 image: images/jobs.png
 hidden: true
