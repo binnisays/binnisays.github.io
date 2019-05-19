@@ -24,5 +24,5 @@ Nick Name- Reshu
 Educational Qualification- Graduate
 Religion- Hindu 
 Birth Place- Vijayapura, Karnataka 
-Awards and Recognition: Reshma had stared her political career with JDS. She had, in fact, fought Assembly election in 2013. When JDS had denied her ticket in 2018 Assembly election, she had switched her loyalty to Congress and in a short span of time had become a stalwart of the state unit of the party.
-Relationship Status: Married
+Awards and Recognition- Reshma had stared her political career with JDS. She had, in fact, fought Assembly election in 2013. When JDS had denied her ticket in 2018 Assembly election, she had switched her loyalty to Congress and in a short span of time had become a stalwart of the state unit of the party.
+Relationship Status- Married
