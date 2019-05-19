@@ -2,7 +2,7 @@
 layout: post
 title:  "Opening for legal advisor at Coffee Board Ministry Of Commerce & Industry"
 author: Bipin
-categories: [jobs ]
+categories: jobs
 featured: true
 image: images/jobs.png
 hidden: true
