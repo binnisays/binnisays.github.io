@@ -2,7 +2,7 @@
 layout: post
 title:  "NHM Rajasthan Recruitment 2019, 2500 Vacancies for Community Health Officer Posts, Apply Online"
 author: Bipin
-categories: [  jobs ]
+categories: [ jobs ]
 featured: true
 image: images/jobs.png
 hidden: true
