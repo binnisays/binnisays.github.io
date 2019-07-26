@@ -19,12 +19,12 @@ react:
     Google search results) and in your feed.xml site description.
   baseurl: "" # the subpath of your site, e.g. /blog
  <<<<<<< HEAD
-  url: "https://indianewsdaily.in" # the base hostname & protocol for your site
+  url: "https://www.indianewsdaily.in" # the base hostname & protocol for your site
   permalink: /posts/:title
   social:
     twitter: http://twitter.com/newsmanindia
 =======
-  url: "https://indianewsdaily.in" # the base hostname & protocol for your site
+  url: "https://www.indianewsdaily.in" # the base hostname & protocol for your site
   permalink: /posts/:title
   social:
     twitter: http://twitter.com/liquid_think
@@ -53,13 +53,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 <<<<<<< HEAD
-url: "https://indianewsdaily.in" # the base hostname & protocol for your site
+url: "https://www.indianewsdaily.in" # the base hostname & protocol for your site
 permalink: /posts/:title
 
 twitter_username: liquid_think
 github_username: InsidiousMind
 =======
-url: " https://indianewsdaily.in" # the base hostname & protocol for your site
+url: " https://www.indianewsdaily.in" # the base hostname & protocol for your site
 permalink: /posts/:title
 
 twitter_username: liquid_think
