@@ -6,7 +6,7 @@ categories: [ featured, travel ]
 image: images/bira.PNG
 featured: true
 hidden: true
-rating: 5
+tags: [featured]
 ---
 
 These are the popular beer's in India. however if you are in Metro cities you may get fresh brewed beer
