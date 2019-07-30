@@ -1,8 +1,8 @@
 # Site
 name: 'Mundana'
 description: 'India News Daily '
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/logo1.png'
+favicon: 'images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'editor@intelligentindia.in'
@@ -22,15 +22,15 @@ authors:
     sal:
       name:           Sal
       site:           https://www.indianewsdaily.in
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         images/author.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/newsmanofindia
 
     jane:
       name:           Jane
       site:           https://www.indianewsdaily.in
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         images/shivangi.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/intelligent_ind
