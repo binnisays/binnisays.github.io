@@ -1,5 +1,5 @@
 # Site
-name: 'Mundana'
+name: 'India News Daily'
 description: 'India News Daily '
 logo: 'assets/images/logo1.png'
 favicon: 'images/favicon.ico'
@@ -20,7 +20,7 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Bipin
       site:           https://www.indianewsdaily.in
       avatar:         images/author.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
@@ -28,7 +28,7 @@ authors:
       twitter:        https://twitter.com/newsmanofindia
 
     jane:
-      name:           Jane
+      name:           Shivangi
       site:           https://www.indianewsdaily.in
       avatar:         images/shivangi.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
