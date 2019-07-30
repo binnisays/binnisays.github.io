@@ -3,7 +3,7 @@ layout: post
 title:  "Zakir Naik hits out at the Modi govt"
 author: Bipin
 categories: national
-image: images/zakirnaik.PNG
+image: images/zakir.PNG
 hidden: true
 tags: [featured]
 ---
