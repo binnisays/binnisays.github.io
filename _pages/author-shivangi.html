@@ -1,7 +1,7 @@
 ---
 title: "Jane"
 layout: default
-permalink: "/author-jane.html"
+permalink: "/author-shivangi.html"
 ---
 <div class="container">
 <div class="row justify-content-center">
@@ -9,7 +9,7 @@ permalink: "/author-jane.html"
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
                 <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.jane.twitter }}">Follow</a></span></h2>
-                <p><a href="{{ site.authors.jane.site }}">{{ site.authors.jane.site }}</a></p>
+                <p><a href="{{ site.authors.jane.site }}">{{ site.authors.Shivangi.site }}</a></p>
                 <p class="excerpt">{{ site.authors.jane.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
@@ -17,7 +17,7 @@ permalink: "/author-jane.html"
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","jane" %}
+            {% assign posts = site.posts | where:"author","Shivangi" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}
