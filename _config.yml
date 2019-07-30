@@ -4,7 +4,7 @@ description: 'India News Daily '
 logo: 'assets/images/logo1.png'
 favicon: 'images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
+disqus: ''
 email: 'editor@intelligentindia.in'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -32,7 +32,7 @@ authors:
       site:           https://www.indianewsdaily.in
       avatar:         images/shivangi.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      email:          shivangi143@yahoo.com
       twitter:        https://twitter.com/shivangi143yaho
  
 # Defaults
