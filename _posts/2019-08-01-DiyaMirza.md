@@ -3,7 +3,7 @@ layout: post
 title:  "Actress Dia mirza files for divorce with Sahil Sangha "
 author: Bipin
 categories: entertainment
-image: images/diya.png
+image: images/diya.PNG
 hidden: true
 tags: [featured]
 ---
