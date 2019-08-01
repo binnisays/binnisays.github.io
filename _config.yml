@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    Bipin:
       name:           Bipin
       site:           https://www.indianewsdaily.in
       avatar:         images/author.jpg
@@ -27,7 +27,7 @@ authors:
       email:          bipin514@gmail.com
       twitter:        https://twitter.com/newsmanofindia
 
-    jane:
+    Shivangi:
       name:           Shivangi
       site:           https://www.indianewsdaily.in
       avatar:         images/shivangi.jpg

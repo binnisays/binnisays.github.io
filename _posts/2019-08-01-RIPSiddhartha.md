@@ -33,4 +33,3 @@ He was the only heir to a coffee plantation in Chikmagalur, India, with 130 year
 
 Siddhartha was not ready to take over his father's estate. Instead, he borrowed Rs 7 lakh from his father as capital for his future business dreams. He came to Bengaluru with the money and opened an office there. He re-invested in the share market, concentrating on that office. The goal was to raise money for his future work in the coffee market. Siddhartha made a profit of Rs 1-2 lakh per day utilizing the existing loopholes in the stock market. With the money he received, he began to buy orchards beyond his father's coffee plantations. By 1991, Siddhartha owned almost 5,000 acres of coffee plantation.
 
- <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
