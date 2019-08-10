@@ -5,7 +5,7 @@ author: Bipin
 categories: national
 image: images/cwc.jpg
 hidden: true
-
+tags: [sticky]
 ---
 NEW DELHI: Sonia Gandhi and Rahul Gandhi have refused to be part of the negotiations to decide the Congress president. They attended the meeting of the Working Committee, but did not refrain from wide discussion. 
 

@@ -5,7 +5,7 @@ author: Bipin
 categories: national
 image: images/sid.jpg
 hidden: true
-tags: [sticky]
+
 ---
 The body of VG Siddhartha, the founder of the famous coffee shop chain Cafe Coffee Day, was discovered by the Indian Navy and the Karnataka Police after a massive search at Netravati River. The rumors surrounding his disappearance ceased. Siddhartha was thrown into a deep depression when his dream empire collapsed. 
 
