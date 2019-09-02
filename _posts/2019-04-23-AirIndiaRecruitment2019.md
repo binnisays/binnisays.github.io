@@ -3,8 +3,6 @@ layout: post
 title:  "Air India Recruitment- Applications invited for fresh jobs - Check all details here"
 author: Shivangi
 categories: [ jobs,sarkari naukri]
-featured: false
-hidden: false
 ---
 Air India Recruitment 2019- Air India has invited applications for the posts of Accounts Clerk and Accounts Executive. The eligible candidates can apply for the posts in the prescribed format and appear for walk-in-interviews on 03, 04, 10 and 11 May 2019. There are total 61 vacancies available in Air India. For the posts of Accounts Clerk there are 36 vacancies, while for the post of Accounts Executive, there are total 25 Posts available. 
 

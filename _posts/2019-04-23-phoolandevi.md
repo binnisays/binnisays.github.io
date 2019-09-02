@@ -2,7 +2,7 @@
 layout: post
 title: Lok Sabha elections 2019- Phoolan Devi's killer Sher Singh to contest from indore 
 author: Shivangi
-categories: [ featured,politics ]
+
  
 ---
     Rana, who is out on bail since October 2016, had boasted that he murdered Phoolan to avenge the 1981 Behmai massacre in which 28 Rajputs were gunned down.
