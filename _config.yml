@@ -1,65 +1,48 @@
-# Site
-name: 'India News Daily'
-description: 'India News Daily '
-logo: 'assets/images/logo1.png'
-favicon: 'images/favicon.ico'
-baseurl: ''
-disqus: ''
-email: 'editor@intelligentindia.in'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-include: ["_pages"]
-permalink: /:title/
+# Site settings
+title: India News Daily
+email: editor@intelligentindia.in
+description: 
+  All Job At One Place ,Sarkari Jobs,sarkari naukri,sarkari result,sarkari result 2018, sarkari exam,job alert,job, Railway, Bank, SSC, Army Jobs, All India Jobs, States Jobs 
+logo: "/images/jekyll-logo.jpg"
+menu: "/assets/images/menu.png"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.indianewsdaily.in/" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
 
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
-authors:
-    Bipin:
-      name:           Bipin
-      site:           https://www.indianewsdaily.in
-      avatar:         images/author.jpg
-      bio:            "Bipin Sasi is an IT expert, Seasoned Journalist and writer. He is also a political observer analysing the current politcal situation in Inda!"
-      email:          bipin514@gmail.com
-      twitter:        https://twitter.com/newsmanofindia
+name: 'Bipin Sasi'
+bio: >
+  Bipin Sasi is a seasoned journalist and a political observer from India.
+  He can be reached at bipin514@gmail.com for any comments and suggestions.
+author_image: "/assets/images/author.jpg"
+twitter_username: intelligent_ind
+facebook_username: intelligentindia
 
-    Shivangi:
-      name:           Shivangi
-      site:           https://www.indianewsdaily.in
-      avatar:         images/shivangi.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          shivangi143@yahoo.com
-      twitter:        https://twitter.com/shivangi143yaho
- 
-# Defaults
-defaults:
+# Google Analytics
+analytics_id: "UA-59285359-8"
 
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: sal
-      avatar: /images/author.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+# Build settings
 markdown: kramdown
-highlighter: rouge
 
-# Paginate
-paginate: 10
+kramdown:
+  parse_block_html: true
 
+gems:
+  - jekyll-paginate
 
+theme: jekyll-theme-minimal
 
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - 404.md
