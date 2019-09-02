@@ -3,9 +3,7 @@ layout: post
 title:  "72-hour campaigning ban on Sidhu"
 author: Shivangi
 categories: [ featured,politics ]
-image: images/siddhu.jpg
-featured: true
-hidden: true
+ 
 ---
   
  

@@ -3,9 +3,7 @@ layout: post
 title:  "SSC Recruitment 2019 - Huge Vacancies Under 7th Pay Commission Released, Apply Now"
 author: Shivangi
 categories: [ jobs,sarkari naukri ]
-image: images/jobs.png
-featured: false
-hidden: false
+ 
 ---
 In what could be the biggest announcement of this year, the Staff Selection Commission (SSC) issued a notification stating that it will hold a competitive examination for recruitment of Multi Tasking Staff (Revised Pay Scale after 7th CPC- Pay Level in Pay Matrix – Level-1), a General Central Service Group ‘C’ Non-Gazetted, Non-Ministerial post in various Ministries/Departments/ Offices of the Government of India, in different States/Union Territories.
 
