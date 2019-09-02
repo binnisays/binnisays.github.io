@@ -3,9 +3,6 @@ layout: post
 title:  "Colombo blasts - Sri Lankan Airlines asks passengers to report four hours before departure "
 author: Shivangi
 categories: [ featured ]
-image: assets/images/colombo.jpg
-featured: true
-hidden: true
 ---
 Sri Lankan Airlines on Sunday asked passengers flying out of Colombo's Bandaranaike International Airport to report at least four hours before departure of their respective flights. The communication was in the aftermath of multiple explosions in Colombo and another two cities.
 

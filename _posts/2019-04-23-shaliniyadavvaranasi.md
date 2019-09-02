@@ -3,9 +3,6 @@ layout: post
 title:  "Shalini Yadav, Varanasi- Profile, Wiki, Age, Husband and Family"
 author: Shivangi
 categories: [ profiles ]
-image: images/shaliniyadav.JPG
-featured: true
-hidden: true
 ---
 Shalini Yadav is an Indian politician and businessman. She is known for having strong clout among OBC voters in Varanasi and some other pockets of Purvanchal. She used to be a burgeoning profile in Congress party. However, Akhilesh did a sort of coupe and brought her to SP. Hours after her joining Samajwadi Party, she was nominated to fight against Narendra Modi.In some cases, it is not the result but the opponent counts. Shalini Yadav is well aware of the fact that she will lose. Still, this nomination has made her a national leader.
 
