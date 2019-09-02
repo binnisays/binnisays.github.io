@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sexual harassment charges against CJI: Three-judge panel to look into allegations 
+title:  Sexual harassment charges against CJI- Three-judge panel to look into allegations 
 author: Bipin
 categories: [ featured ]
  
