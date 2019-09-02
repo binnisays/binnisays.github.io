@@ -3,8 +3,6 @@ layout: post
 title:  "Sexual harassment charges against CJI: Three-judge panel to look into allegations"
 author: Bipin
 categories: [ featured ]
-image: images/gogoi.jpg
-featured: true
 hidden: true
 ---
 A panel of Supreme Court judges has been set up to look into allegations of sexual harassment levelled against Chief Justice of India Ranjan Gogoi. It has three judges, including a woman judge.

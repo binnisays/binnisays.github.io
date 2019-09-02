@@ -3,8 +3,6 @@ layout: post
 title:  "Who was behind the extremist attack in Sri Lanka?"
 author: Bipin
 categories: [ featured ]
-image: images/lanka.jpg
-featured: true
 hidden: true
 ---
 This  mystery remained a secret behind the most horrific terrorist attack in Sri Lanka after the ten years of Civil War.
