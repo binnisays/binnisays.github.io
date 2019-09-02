@@ -3,9 +3,7 @@ layout: post
 title:  "India's chief justice cleared of harassment"
 author: Bipin
 categories: [ featured, national ]
-image: images/gogoi.jpg
-featured: true
-hidden: true
+ 
 ---
 India chief justice accuser quits inquiry .The ruling comes days after a woman who accused Mr Gogoi withdrew from the inquiry after questioning its fairness.
 
