@@ -17,10 +17,7 @@ $grey-color:       #828282;
     }
 }
 
-amp-img {
-  background-color: #b00e23;
-}
-
+ 
 .cf {
   @include clearfix;
 }
@@ -84,7 +81,7 @@ main {
 .ampstart-headerbar {
      width: 100%;
    
-    background-color: #e80000;;
+    background-color: #fff; 
  
      color: #fff;  
      z-index: 999;  
