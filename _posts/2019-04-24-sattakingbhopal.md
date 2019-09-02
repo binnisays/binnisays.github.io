@@ -3,7 +3,7 @@ layout: post
 title:  Great success for DIG, Bhopal Irshad Wali in cracking down the betting racket 
 author: Bipin
 categories: [ featured ,Bhopal IPL Betting Racket]
-hidden: true
+ 
 ---
 DIG, Bhopal Irshad Wali said around police received intelligence about the betting racket being operated in the city a fortnight ago and nine teams were constituted to track the suspects. Police raided over six places in Bhopal.Police said the accused were operating betting racket online and used their Hawala connections to transfer the money in cash. Racket was operated in association with Dubai-based operators using some websites and through mobile applications. A Dubai-based operator said to be the brother-in-law of the one of the arrested accused was the kingpin.
 
