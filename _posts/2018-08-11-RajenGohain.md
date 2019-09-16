@@ -8,6 +8,7 @@ categories:  profile
 <amp-img  src="{{ site.baseurl }}/images/Gohen.jpg"   width="400"   height="400"  ></amp-img>
 
 
+  
   Assam Police have registered a case against Minister of State for Railways Rajen Gohain for allegedly raping and threatening a 24-year-old married woman in Nagaon district.
 
 Gohain has also filed a counter complaint of blackmailing against the woman and her family, his officer on special duty Sanjiv Goswami said when contacted.

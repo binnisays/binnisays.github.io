@@ -6,6 +6,8 @@ categories:  profile
 
 
 <amp-img  src="{{ site.baseurl }}/images/Nidhi-Razdan.jpg"   width="540"   height="488"  ></amp-img>
+
+
   Nidhi Razdan is one of the most prolific television journalists of India. She is currently working with NDTV 24X7 and hosts many shows, including highly popular Left, Right and Centre. Nidhi generally remains calm even during hot discussions on her shows. Unfortunately, sometimes she takes biased stand against BJP. Recently, she fanned controversy by interviewing a Birtish MP and directly questioning him for his invite to Narendra Modi (then, Modi was not the Prime Minister). The British MP ripped apart Nidhi.
 
 
