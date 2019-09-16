@@ -1,6 +1,6 @@
 --- 
 layout:   post
-title: ONGC Recruitment 2019 – 4014 Apprentices Vacancy @ ongcindia.com
+title: ONGC Recruitment 2019 – 4014 Apprentices Vacancy   ongcindia.com
 categories:   jobs
 ---
 ONGC Recruitment 2019
