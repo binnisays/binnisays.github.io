@@ -5,7 +5,7 @@ author: Bipin
 categories: national
 tags: [sticky]
 ---
-NEW DELHI: Sonia Gandhi and Rahul Gandhi have refused to be part of the negotiations to decide the Congress president. They attended the meeting of the Working Committee, but did not refrain from wide discussion. 
+NEW DELHI- Sonia Gandhi and Rahul Gandhi have refused to be part of the negotiations to decide the Congress president. They attended the meeting of the Working Committee, but did not refrain from wide discussion. 
 
 The working committee met today to resolve the leadership crisis following the resignation of Rahul Gandhi. Reports say the party will announce its interim president today. As general secretary, Priyanka Gandhi is the only member of the Working Committee meeting from the Nehru family. Former Prime Minister Manmohan Singh has been entrusted with the task of negotiating with leaders from the South, Tamil Nadu and Puducherry regions.
  
