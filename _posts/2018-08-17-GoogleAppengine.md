@@ -8,7 +8,7 @@ Google App Engine (often referred to as GAE or simply App Engine) is a web frame
 
 Amongst its various Cloud based products, Google app engine has become quite popular. The app engine is a Cloud based platform, is quite comprehensive and combines infrastructure as a service (IaaS), platform as a service (PaaS) and software as a service (SaaS).
 
-Google Cloud Platform Free Tier. The Google Cloud Platform Free Tier is your opportunity to learn and use GCP for free. It has two parts: a 12-month, $300 credit free trial and Always Free. The 12-month, $300 free trial allows you to use any GCP product.
+Google Cloud Platform Free Tier. The Google Cloud Platform Free Tier is your opportunity to learn and use GCP for free. It has two parts- a 12-month, $300 credit free trial and Always Free. The 12-month, $300 free trial allows you to use any GCP product.
 
 Google Appengine has two environments 1 . Standard 2. Flexible . Both these frameworks support Java spring boot framework. The difference is in the quota and billing.
 
@@ -16,7 +16,7 @@ Another advantage of using Appengine is to develop Mobile Apps using Cloud Endpo
 
 
 
-There are few important components in Appengine which makes it fit for managing application well : -
+There are few important components in Appengine which makes it fit for managing application well - -
 
 Versions - You can manage your dev/test/prod versions
 Task Queues - You can have scheduled tasks using task queues.

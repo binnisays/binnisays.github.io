@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zakir Naik hits out at the Modi govt"
+title:   Zakir Naik hits out at the Modi govt 
 author: Bipin
 categories: national
 ---

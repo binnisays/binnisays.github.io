@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who was VG Siddhartha? Life Of The King Of Coffee"
+title:   Who was VG Siddhartha? Life Of The King Of Coffee 
 author: Bipin
 categories: national
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sushmita Sen's wedding at age 42 "
+title:   Sushmita Sen's wedding at age 42 
 author: Shivangi
 categories: entertainment
  
