@@ -2,7 +2,7 @@
 layout: post
 title:   SAIL Recruitment 2019 for 76 Trainee Posts, Walk-in-Interview 
 author: Bipin
-categories: [ jobs,sarkari naukri]
+categories:   jobs,sarkari naukri 
 ---
 SAIL Recruitment 2019- Steel Authority of India Limited is conducting walk-in-interview for selection of trainees for training programme in ispat general hospital, rourkela, for improvement of employability skill. The eligible candidates can walk in for the interview on scheduled date and time.
 
