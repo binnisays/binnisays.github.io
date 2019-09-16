@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ex police officers express despair against Sadhvi Pragya's remark "
+title:   Ex police officers express despair against Sadhvi Pragya's remark  
 author:  Bipin
 categories: [ featured ]
 ---
