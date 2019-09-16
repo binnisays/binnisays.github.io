@@ -1,10 +1,8 @@
 ---
 layout: post
-title:   Yeddyurappa government has ordered the cancellation of the Tipu Jayanti celebrations in Karnataka  
+title:  Yeddyurappa government has ordered the cancellation of the Tipu Jayanti celebrations in Karnataka  
 author: Bipin
 categories: national
-image: images/tipu.jpg
-hidden: true
 tags: [featured]
 ---
 The Yeddyurappa government has ordered the cancellation of the Tipu Jayanti celebrations in Karnataka following the voter turnout. The Congress responded that the BJP government's decision was communal.
