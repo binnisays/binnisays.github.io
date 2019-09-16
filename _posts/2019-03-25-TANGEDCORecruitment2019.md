@@ -9,7 +9,7 @@ According to the notification, "Candidates who do not possess an adequate knowle
 
 Candidates should know that they will be selected on the basis of their physical test that includes pole climbing, fixing of cross arm, etc. Those who qualify the physical test will be eligible to take the written test, which will comprise objective type questions.
 
-The recruiting body has clearly stated in the notification that "The tentative list of eligible candidates (i.e., from the list of candidates who passed the physical test and who have appeared for the competitive written exam) will be called in the ratio of 1:1 for certificate verification as per the marks obtained by the candidates in the Written Examination and as per Communal roster." 
+The recruiting body has clearly stated in the notification that "The tentative list of eligible candidates (i.e., from the list of candidates who passed the physical test and who have appeared for the competitive written exam) will be called in the ratio of 1/1 for certificate verification as per the marks obtained by the candidates in the Written Examination and as per Communal roster." 
 
 Meanwhile, candidates belonging to OC, BCO, BCM, MBC/ DC categories need to pay exam fee of Rs 1000, while candidates belonging to Others category need to pay Rs 500.
 

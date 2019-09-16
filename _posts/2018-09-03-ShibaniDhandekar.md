@@ -13,7 +13,7 @@ She played the role 'Zoya' in the movie Roy which was released on February 13, 2
 
 Frahan Akhtar and Shibani Dhandekar
 
-There are rumours that  [Farhan Akhtar](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-farhan-akhtar-the-mystery-man-in-shibani-dandekars-social-media-post/articleshow/65645971.cms) is the mystery man in Shibani Dandekar’s social media post.For some time now, there’s a strong buzz about the actor being in a relationship with anchor-model Shibani Dandekar. While Farhan has once again kept his lips sealed, what has raised many eyebrows is a picture posted by Shibani on Instagram. The photograph, clicked somewhere abroad, shows her walking hand-in-hand with a man, whose face is turned away from the camera. From the profile, the man looks like none other than Farhan Akhtar.
+There are rumours that  [Farhan Akhtar](timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-farhan-akhtar-the-mystery-man-in-shibani-dandekars-social-media-post/articleshow/65645971.cms) is the mystery man in Shibani Dandekar’s social media post.For some time now, there’s a strong buzz about the actor being in a relationship with anchor-model Shibani Dandekar. While Farhan has once again kept his lips sealed, what has raised many eyebrows is a picture posted by Shibani on Instagram. The photograph, clicked somewhere abroad, shows her walking hand-in-hand with a man, whose face is turned away from the camera. From the profile, the man looks like none other than Farhan Akhtar.
 
 Farhan and Shibani have known each other since 2015 when she participated in a reality show hosted by him. However, love blossomed between the two only very recently.
 

@@ -5,7 +5,7 @@ categories: bureaucracy
 ---
 
 
-Calcutta: The state government on Monday transferred seven senior IAS officers, a move considered to be the last major change in the bureaucracy before the 2019 Lok Sabha polls.
+Calcutta The state government on Monday transferred seven senior IAS officers, a move considered to be the last major change in the bureaucracy before the 2019 Lok Sabha polls.
 
 Rajiva Sinha, a 1986 batch IAS officer who was secretary in charge of the micro, small and medium enterprises department, has been transferred to the health department. Transport secretary Alapan Bandyopadhyay, a 1987 batch officer, replaces Sinha.
 
@@ -15,7 +15,7 @@ Animal resources development secretary B.P. Gopalika, a 1989 batch officer, is t
 
 
 
-# You can connect with me at [businesseditor@intelligentindia.in](mailto:businesseditor@intelligentindia.in)
+# You can connect with me at [businesseditor@intelligentindia.in](businesseditor@intelligentindia.in)
  
 
 

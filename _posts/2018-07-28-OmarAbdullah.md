@@ -2,7 +2,7 @@
 layout: post
 title: Mamata for PM? In Kolkata, Omar Abdullah Says Didi Will Move to Delhi, She Takes a Step Back 
 ---
-Kolkata: West Bengal Chief Minister Mamata Banerjee met National Conference leader Omar Abdullah in Kolkata on Friday, setting in motion the formation of a grand alliance of opposition parties against the BJP for the next Lok Sabha election.
+Kolkata -West Bengal Chief Minister Mamata Banerjee met National Conference leader Omar Abdullah in Kolkata on Friday, setting in motion the formation of a grand alliance of opposition parties against the BJP for the next Lok Sabha election.
 
 
 <amp-img  src="{{ site.baseurl }}/images/omar-mamata.jpg"   width="320"   height="280"   ></amp-img>

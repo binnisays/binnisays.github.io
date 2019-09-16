@@ -2,7 +2,7 @@
 layout: post
 title: Taxpayers Will Pay 1 Lakh Crore To PM's Friend For Rafale -Rahul Gandhi
 ---
-NEW DELHI: Congress president Rahul Gandhi today stepped up his attack on Prime Minister Narendra Modi, alleging that the tax payers would have to pay Rs. 1 lakh crore over the next 50 years to "Mr 56's friend" for maintaining the 36 Rafale aircrafts that the country was buying.
+NEW DELHI  Congress president Rahul Gandhi today stepped up his attack on Prime Minister Narendra Modi, alleging that the tax payers would have to pay Rs. 1 lakh crore over the next 50 years to "Mr 56's friend" for maintaining the 36 Rafale aircrafts that the country was buying.
 Mr Gandhi has been taking a swipe at PM Modi using the "56-inch-chest" remark that the latter had made at elections rallies in the run-up to the 2014 Lok Sabha elections. The Congress had also been questioning the prime minister about when he would show that "broad chest" while dealing with Pakistan and China.
 
 "Over the next 50 years, Indian Tax Payers will pay Mr 56's friend's JV, 100,000 Cr to maintain 36 RafaleScam jets, India is buying," Mr Gandhi tweeted.

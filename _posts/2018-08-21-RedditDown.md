@@ -7,7 +7,7 @@ categories:  tech
 
 Reddit is down for many users as people looking to use the site are being greeted by an error message.
 
-Users trying to log on to the site are being greeted with: "Our CDN was unable to reach our servers".
+Users trying to log on to the site are being greeted with "Our CDN was unable to reach our servers".
 
 The site urges anyone being greeted with a crushed Snoo piled under a ton of upvotes to "please check www.redditstatus.com if you consistently get this error."
 

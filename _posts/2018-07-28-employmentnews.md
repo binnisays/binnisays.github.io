@@ -70,7 +70,7 @@ Mechanical  1 post
 Educational Qualification
 For category 1 posts  Diploma in relevant disciplines. For Physics and Chemistry disciplines, applicants must have a graduate degree in the respective subjects with minimum 60% in aggregate; in addition to this Mathematics is also essential at 10+2 level.
 
-For category 2 posts  10+2 for plant operator, laboratory posts and class 10 with ITI for other posts.
+For category 2 posts 10+2 for plant operator, laboratory posts and class 10 with ITI for other posts.
 
 'Educational/ Technical Qualifications should be from a recognized University/Board of Technical Education of Central or State Government,' reads the official notification.
 
@@ -79,7 +79,7 @@ The total duration of the training is 2 years. 'Selected candidates will be give
 
 ### Centac releases MBBS vacancy position in Puducherry colleges 
 
-PUDUCHERRY: The Centralised Admission Committee (Centac) has published the vacancy position for MBBS course in various colleges in the Union territory of Puducherry on its website www.centaconline.in.
+PUDUCHERRY - The Centralised Admission Committee (Centac) has published the vacancy position for MBBS course in various colleges in the Union territory of Puducherry on its website www.centaconline.in.
 Centac coordinator (admission) Rudra Goud said the candidates could participate in the second round of counselling without any limitation regarding allotment in the first round if any.
 
 The students must pay the registration fee as per the notification of the Medical Council of India to participate in the second round of counselling.
@@ -102,4 +102,4 @@ The candidates who have attended the first round of counselling can also opt for
  
  #jobs #vacancy #police
  
- Rating : 5/5
+ 

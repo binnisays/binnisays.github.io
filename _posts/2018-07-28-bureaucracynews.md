@@ -6,7 +6,7 @@ categories: bureaucracy
 
  
 
- BHOPAL: Former IAS couple Arvind Joshi and Tinoo Joshi have been sent to prison in connection with a money laundering case after they surrendered before a court in Bhopal.
+ BHOPAL -Former IAS couple Arvind Joshi and Tinoo Joshi have been sent to prison in connection with a money laundering case after they surrendered before a court in Bhopal.
 Judge Alok Awasthi of the special court for Prevention of Money Laundering Act (PMLA) sent the Joshis in judicial custody last evening.
 
 The court granted bail to Arvind Joshi's parents--Nirmala Joshi, 88 and H M Joshi, 92 -against a surety of Rs. 50,000 each in view of their old age, said an Enforcement Directorate (ED) official.
@@ -28,7 +28,7 @@ The ED, in its charge sheet, has accused them of laundering some of the ill-gott
 
 ### Seven IAS officers shifted
 
-Calcutta: The state government on Monday transferred seven senior IAS officers, a move considered to be the last major change in the bureaucracy before the 2019 Lok Sabha polls.
+Calcutta -The state government on Monday transferred seven senior IAS officers, a move considered to be the last major change in the bureaucracy before the 2019 Lok Sabha polls.
 
 Rajiva Sinha, a 1986 batch IAS officer who was secretary in charge of the micro, small and medium enterprises department, has been transferred to the health department. Transport secretary Alapan Bandyopadhyay, a 1987 batch officer, replaces Sinha.
 
@@ -38,5 +38,5 @@ Animal resources development secretary B.P. Gopalika, a 1989 batch officer, is t
 
 
 
-# You can connect with me at [businesseditor@intelligentindia.in](mailto:businesseditor@intelligentindia.in)
+# You can connect with me at [businesseditor@intelligentindia.in](mailto-businesseditor@intelligentindia.in)
  

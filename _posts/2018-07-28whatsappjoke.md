@@ -6,8 +6,8 @@ categories: humour
 
 #PrivateJOB
 
-Interviewer :- Tell me your Strength ?
+Interviewer  Tell me your Strength ?
 
-Me :- "ना सम्मान का मोह, ना अपमान का भय" 
+Me  - "ना सम्मान का मोह, ना अपमान का भय" 
 
-Interviewer :- #Hired
+Interviewer  - #Hired
