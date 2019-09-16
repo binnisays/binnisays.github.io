@@ -13,7 +13,7 @@ Recently, Bima Bharati’s son was found murdered near railway track in Patna. P
 	Birth Place; Katihar
 	.............
 
-	Awards and Recognition: Bima is known for being a front MLA of Awadhesh Mandal who couldn’t fight 
+	Awards and Recognition- Bima is known for being a front MLA of Awadhesh Mandal who couldn’t fight 
 	election because of conviction in many cases. When she tried to work on her own, her own husband became her enemy.
 	Bima was also made a minister in the Cabinet led by Jitan Ram Manjhi. During oath taking ceremony, 
 	she was even not able to read the oath paper.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SAIL Recruitment 2019 for 76 Trainee Posts, Walk-in-Interview"
+title:   SAIL Recruitment 2019 for 76 Trainee Posts, Walk-in-Interview 
 author: Bipin
 categories: [ jobs,sarkari naukri]
 ---

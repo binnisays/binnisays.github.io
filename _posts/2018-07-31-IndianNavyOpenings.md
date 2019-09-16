@@ -16,7 +16,7 @@ Interested candidates can apply for Indian Navy Recruitment through online mode.
 
 Candidates need to browse the official website at www.joinindiannavy.gov.in to apply.
 
-Last date to apply: August 24
+Last date to apply - August 24
 
 Vacant Posts
 Executive Branch

@@ -7,74 +7,86 @@ categories: jobs
 
 Apply for job opening at Babha Atomic Research Center (BARC). Don't miss the dates.
 
-    Important Dates 
-    Application Begin : 28/07/2018 
-    Last Date for Apply Online : 20/08/2018 
-    Last Date Pay Exam Fee : 20/08/2018 
-    Exam Date: Notified Soon 
-    Admit Card Available : Notified Soon
+    Important Dates 
+
+    Application Begin : 28/07/2018 
+
+    Last Date for Apply Online : 20/08/2018 
+
+    Last Date Pay Exam Fee : 20/08/2018 
+
+    Exam Date: Notified Soon 
+
+    Admit Card Available : Notified Soon
 
 Application Fee
 
-    Application Fee 
-    Category I General / OBC : 150/- 
-    Category II General / OBC : 100/- 
-    SC / ST / PH : 0/- All Category Female : 0/- 
-    Pay the Examination Fee Through Online Debit Card, Net Banking Fee Mode or Pay Through E Challan Only
+    Application Fee 
+
+    Category I General / OBC : 150/- 
+
+    Category II General / OBC : 100/- 
+
+    SC / ST / PH : 0/- All Category Female : 0/- 
+
+    Pay the Examination Fee Through Online Debit Card, Net Banking Fee Mode or Pay Through E Challan Only
 
 Eligibility
 
-    Eligibility
-    10th, 12th, ITI, Diploma, Graduation 
+    Eligibility
+
+    10th, 12th, ITI, Diploma, Graduation 
 
 Application Critarea
 
-     Age Limit as on 20/08/2018
-    Cat I Post : 19-24 Years
-    Cat II Post : 18-22 Years
+     Age Limit as on 20/08/2018
+
+    Cat I Post : 19-24 Years
+
+    Cat II Post : 18-22 Years
 
 Vacancy-Details Total Post : 224
+
 Interested Candidates Can Read the Full Notification Before Apply Online
 
-
-<div id="divnotpp1" class="vacancy-details-btm-head1">
+&lt;div id="divnotpp1" class="vacancy-details-btm-head1"&gt;
 
 ## Some Useful Important Links
 
-</div>
+&lt;/div&gt;
 
-<div id="divnotpp" class="vacancy-details-col">
+&lt;div id="divnotpp" class="vacancy-details-col"&gt;
 
-<table class="vac-det">
+&lt;table class="vac-det"&gt;
 
-<thead>
+&lt;thead&gt;
 
-<tr id="ContentPlaceHolder1_Tr1">
+&lt;tr id="ContentPlaceHolder1_Tr1"&gt;
 
-<td><span id="ContentPlaceHolder1_Label1">Download Notification</span></td>
+&lt;td&gt;&lt;span id="ContentPlaceHolder1_Label1"&gt;Download Notification&lt;/span&gt;&lt;/td&gt;
 
-<td>[View More](http://www.barc.gov.in/careers/vacancy427.pdf)</td>
+&lt;td&gt;[View More](http://www.barc.gov.in/careers/vacancy427.pdf)&lt;/td&gt;
 
-</tr>
+&lt;/tr&gt;
 
-<tr id="ContentPlaceHolder1_Tr2">
+&lt;tr id="ContentPlaceHolder1_Tr2"&gt;
 
-<td><span id="ContentPlaceHolder1_Label2">Apply Online</span></td>
+&lt;td&gt;&lt;span id="ContentPlaceHolder1_Label2"&gt;Apply Online&lt;/span&gt;&lt;/td&gt;
 
-<td>[View More](http://www.barc.gov.in/careers/recruitment.html)</td>
+&lt;td&gt;[View More](http://www.barc.gov.in/careers/recruitment.html)&lt;/td&gt;
 
-</tr>
+&lt;/tr&gt;
 
-<tr id="ContentPlaceHolder1_Tr3">
+&lt;tr id="ContentPlaceHolder1_Tr3"&gt;
 
-<td><span id="ContentPlaceHolder1_Label3">Official Website</span></td>
+&lt;td&gt;&lt;span id="ContentPlaceHolder1_Label3"&gt;Official Website&lt;/span&gt;&lt;/td&gt;
 
-<td>[View More](http://www.barc.gov.in/careers/recruitment.html)</td>
+&lt;td&gt;[View More](http://www.barc.gov.in/careers/recruitment.html)&lt;/td&gt;
 
-</tr>
+&lt;/tr&gt;
 
-</thead>
+&lt;/thead&gt;
 
-</table>
+&lt;/table&gt;
 
-</div>
+&lt;/div&gt;
