@@ -16,3 +16,7 @@ AE/OT (Electrical) – 100 Posts
 AM/IT Systems– 11 Posts
 Eligibility Criteria for AE and AM Posts 
 Educational Qualification- Candidates can check the official notification for more details related to educational qualification, age limit, selection process and other details.
+
+
+How to apply for PSPCL Recruitment 2019 through GATE 2019
+Interested candidates can apply to the posts through the online mode on or before 21 October 2019. Candidates are required to take a printout of the finally submitted online application for future reference.
