@@ -2,7 +2,7 @@
 layout: post
 title:  "Sarkari Naukri- Last date of application for  LIC Assistant 8,000 posts is tomorrow, apply"
 author: Bipin
-categories: jobs
+categories: jobs,education
 ---
 The youth who are looking for a government job (Sarkari Naukri) have the last chance to apply for the posts left in LIC. LIC will recruit 8000 Assistant posts. Tomorrow is the last date to apply for these posts. Tomorrow is the last day and there will be a lot of traffic on the website, so interested people should apply as soon as possible today. Selection of candidates for these posts will be done on the basis of prelims and mains examination. More information regarding recruitment is given below. 
 Number of posts-
