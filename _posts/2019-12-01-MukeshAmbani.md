@@ -3,7 +3,7 @@ layout: post
 title:  Mukesh Ambani beats Google founders in 'rich list'
 categories: national
 ---
- NEW DELHI: With a net worth of $60 billion, Reliance Industries (RIL) chief  Mukesh Ambani   has been ranked the 9th richest person globally, according to 'The Real-Time Billionaires List' of Forbes, that was topped by Amazon Founder and CEO Jeff Bezos.  
+ NEW DELHI  With a net worth of $60 billion, Reliance Industries (RIL) chief  Mukesh Ambani   has been ranked the 9th richest person globally, according to 'The Real-Time Billionaires List' of Forbes, that was topped by Amazon Founder and CEO Jeff Bezos.  
 
 The list tracks the daily ups and downs of the world's richest people. Ambani made it to the daily list of top 10 richest people in the world following a significant jump in the share price of his flagship firm Reliance Industries on Thursday.  
 
