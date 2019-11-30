@@ -3,6 +3,10 @@ layout: post
 title:  Priyanka reddy kidnapped, raped and murdered
 categories: national
 ---
+
+Updates - Four accused sent to 14-day judicial custody; protesters call for death penalty, say 'hand them over if you can't do it'
+
+
 The murder of Dr Priyanka Reddy has become a national sensation,  She was a veterinary doctor by profession, Her body was found on Thursday morning on the Hyderabad-Bengaluru national highway. The woman went missing on Wednesday after discovering her scooter had a flat tyre while returning home.
  
 It was investigated by the police in just 24 hours , The driver of the lorry and the cleaner were arrested along with two others on the basis of CCTV footage. Police have confirmed that Mohammed Pasha was the prime accused among the four. He was identified from Narayan Pate district..
